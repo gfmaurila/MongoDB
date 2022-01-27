@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+++kuY6/CkrA7l0Uf8jfv4ERylqAemXGe3jxDPcFiIZCO/o6KeVq0tElGBzvo36VnwXgk/kmDv32M94CWVZ2tw==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\MongoDB\\1 - MongoDB e Azure Cosmos DB com API .Net Core Parte 1\\MongoDBCosmosDBApi\\MongoDBCosmosDBApi.Domain\\MongoDBCosmosDBApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

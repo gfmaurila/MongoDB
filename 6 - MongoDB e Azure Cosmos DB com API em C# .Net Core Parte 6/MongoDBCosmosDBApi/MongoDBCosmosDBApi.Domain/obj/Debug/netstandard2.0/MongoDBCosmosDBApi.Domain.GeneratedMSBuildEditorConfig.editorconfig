@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MongoDBCosmosDBApi.Domain
+build_property.ProjectDir = F:\Work\Work\Exemplos\Alexandre Brandão Lustosa\MongoDB\1 - MongoDB e Azure Cosmos DB com API .Net Core Parte 1\MongoDBCosmosDBApi\MongoDBCosmosDBApi.Domain\
